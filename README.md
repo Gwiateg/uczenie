@@ -1,0 +1,2 @@
+# uczenie
+początek nauki
